@@ -126,3 +126,44 @@ first registration to their site its limited period offer so what are waiting fo
 
 
 
+![MVI_0003 00_02_14_01 Still001](https://user-images.githubusercontent.com/19898602/125606831-8dd6d6c4-ac40-4317-abdf-0f2301e3813a.jpg)
+
+
+I have used the 12mm birch wood to made this side blocks, the dimensions are 60mm on top 
+
+and 80mm on bottom, and have 20mm grove at the top center,
+
+in this grove we can place our 20x20 alu. extrution profile. 
+
+![MVI_0003 00_02_20_04 Still002](https://user-images.githubusercontent.com/19898602/125608925-fbc0463d-53c4-44e8-9fbc-153dd7f96b47.jpg)
+
+This is the main part of our project this are the 20 x 20 Alu. extrution 
+the length is as per your need means how long you want to travel camera you can keep
+length as per that.
+
+I have used two aluminium extrusion of 20x20 cross section size you can use 20x40 size as well
+![MVI_0003 00_04_12_18 Still003](https://user-images.githubusercontent.com/19898602/125609236-921acb3c-c328-491d-8425-7fc7cb3c664d.jpg)
+
+This is the camera slider platform
+
+it have four V shape wheels on the all four corners this wheel fit in the grove of 20 x 20 alu extrusion profile.
+
+I made this platform using 4 mm wood there is also a provision for nema 17 stepper motor.
+
+this motor will pan the camera in 180 degree horizontally
+
+![MVI_0003 00_10_51_12 Still004](https://user-images.githubusercontent.com/19898602/125610072-df3802de-3f36-40da-947e-5c972665faf4.jpg)
+
+
+![MVI_0003 00_11_16_09 Still005](https://user-images.githubusercontent.com/19898602/125610244-e7f028b7-8a8d-429f-8e13-673a8012491e.jpg)
+
+
+This is the control unit box which I 3D printen in PLA filament 
+
+its size is 75 x 55 mm I have placed my PCB inside this box and I placed a rotary encoder and 
+
+small OLED screen on the cover of this control unit box 
+
+This rotary encoder and small OLED screen is helpfull for user interface and to display  data on the screen 
+
+
