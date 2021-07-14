@@ -1,4 +1,4 @@
-![MVI_0003_1](https://user-images.githubusercontent.com/19898602/125611279-b42ae67d-2a06-4654-a589-5e40a623a763.gif)
+
 ![maxresdefault (3)](https://user-images.githubusercontent.com/19898602/125586770-c9e0a89c-81bf-4c57-9be4-b965bad7fba0.jpg)
 
 
