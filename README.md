@@ -1,3 +1,4 @@
+![MVI_0003_1](https://user-images.githubusercontent.com/19898602/125611279-b42ae67d-2a06-4654-a589-5e40a623a763.gif)
 ![maxresdefault (3)](https://user-images.githubusercontent.com/19898602/125586770-c9e0a89c-81bf-4c57-9be4-b965bad7fba0.jpg)
 
 
@@ -166,4 +167,5 @@ small OLED screen on the cover of this control unit box
 
 This rotary encoder and small OLED screen is helpfull for user interface and to display  data on the screen 
 
+![MVI_0003_1](https://user-images.githubusercontent.com/19898602/125611317-679003d9-5309-4915-94cb-19981a4d3d8b.gif)
 
